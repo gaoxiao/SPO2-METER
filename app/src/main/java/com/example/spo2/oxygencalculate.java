@@ -51,8 +51,8 @@ public class oxygencalculate extends AppCompatActivity {
         });
 
     }
-        @Override
+    @Override
     public void onBackPressed() {
         super.onBackPressed();
-        }
+    }
 }
